@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="StartPositionedGFX" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="F:\Dev\s3ui\ui_lib\bat\RunGFX.cmd" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="F:/Dev/s3ui/ui_lib/bat" />
+    </exec>
+  </tool>
+</toolSet>

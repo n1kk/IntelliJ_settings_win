@@ -1,0 +1,27 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 2.7.9 (C:\Python27\python.exe) interpreter library">
+      <CLASSES>
+        <root url="jar://C:/Python27/Lib/site-packages/osa-0.1.6.6-py2.7.egg!/" />
+        <root url="file://C:/Python27/DLLs" />
+        <root url="file://C:/Python27/Lib" />
+        <root url="file://C:/Python27/Lib/lib-tk" />
+        <root url="file://C:/Python27" />
+        <root url="file://C:/Python27/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2016.3/system/python_stubs/-762174762" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://C:/Python27/Lib/site-packages/osa-0.1.6.6-py2.7.egg!/" />
+        <root url="file://C:/Python27/DLLs" />
+        <root url="file://C:/Python27/Lib" />
+        <root url="file://C:/Python27/Lib/lib-tk" />
+        <root url="file://C:/Python27" />
+        <root url="file://C:/Python27/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2016.3/system/python_stubs/-762174762" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
