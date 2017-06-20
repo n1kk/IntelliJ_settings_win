@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="StartPositionedGFX" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="F:\Dev\s3ui\ui_lib\bat\RunGFX.cmd" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="F:/Dev/s3ui/ui_lib/bat" />
+    </exec>
+  </tool>
+  <tool name="CheckOut Motec.2.ClassLib.swf" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="H:\p4\nidy\nidy_deathstroke_win7\depot\Projects\Lisi\Data\uias3\bat\CheckOutFile.bat" />
+      <option name="PARAMETERS" value="$ProjectFileDir$\Menu\Motec.2.ClassLib.swf" />
+      <option name="WORKING_DIRECTORY" value="H:/p4/nidy/nidy_deathstroke_win7/depot/Projects/Lisi/Data/uias3/bat" />
+    </exec>
+  </tool>
+</toolSet>
