@@ -5,6 +5,7 @@
       <mapping pattern=".gitinclude" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
+      <mapping pattern="index" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
