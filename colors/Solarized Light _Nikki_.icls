@@ -1,12 +1,12 @@
 <scheme name="Solarized Light (Nikki)" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
   <option name="CONSOLE_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="CARET_ROW_COLOR" value="eee8d5" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="fdf6e3" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="212223" />
     <option name="FILESTATUS_ADDED" value="cc600" />
     <option name="FILESTATUS_MODIFIED" value="82c0f0" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="37a4ff" />
@@ -72,8 +72,7 @@
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="586e75" />
-        <option name="BACKGROUND" value="fdf6e3" />
+        <option name="FOREGROUND" value="35c839" />
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
