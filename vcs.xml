@@ -14,8 +14,12 @@
           <option name="url" value="https://github.com/n1kk/chrome-extra-js.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@192.168.25.92:n1kk/some-test-project.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\Dev\web_playgrounds" />
+    <option name="cloneParentDir" value="F:\Dev\gitlab" />
   </component>
 </application>
