@@ -18,8 +18,12 @@
           <option name="url" value="git@192.168.25.92:n1kk/some-test-project.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.com:n1kk/n1kk.io.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\Dev\gitlab" />
+    <option name="cloneParentDir" value="F:\Dev\web_playgrounds" />
   </component>
 </application>
