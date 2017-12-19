@@ -4,6 +4,9 @@
     <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
     <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
   </ECMA4CodeStyleSettings>
+  <JSCodeStyleSettings>
+    <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
+  </JSCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
@@ -393,6 +396,17 @@
         </section>
       </rules>
     </arrangement>
+  </codeStyleSettings>
+  <codeStyleSettings language="Jade">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Lua">
     <indentOptions>

@@ -6,6 +6,9 @@
       <version value="4.6.0.23201" />
       <homePath value="C:/SDK/Flex SDK 4.6" />
       <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
         <classPath>
           <root type="composite">
             <root type="simple" url="jar://C:/SDK/Flex SDK 4.6/frameworks/libs/player/10.0/playerglobal.swc!/" />
@@ -38,6 +41,9 @@
             <root type="simple" url="jar://C:/SDK/Flex SDK 4.6/frameworks/themes/Mobile/mobile.swc!/" />
           </root>
         </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
         <sourcePath>
           <root type="composite">
             <root type="simple" url="file://C:/SDK/Flex SDK 4.6/frameworks/projects/mx/src" />
@@ -78,11 +84,17 @@
       <type value="Lua SDK" />
       <homePath value="" />
       <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
         <classPath>
           <root type="composite">
             <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/Lua/stdlibrary" />
           </root>
         </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
         <sourcePath>
           <root type="composite">
             <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/IDLua/stdlibrary" />
@@ -96,11 +108,17 @@
       <type value="Lua SDK" />
       <homePath value="" />
       <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
         <classPath>
           <root type="composite">
             <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/Lua/stdlibrary" />
           </root>
         </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
         <sourcePath>
           <root type="composite">
             <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/IDLua/stdlibrary" />
@@ -115,6 +133,9 @@
       <version value="AIR SDK 17.0.0.144" />
       <homePath value="C:/SDK/AIR.v.17.0.0.144" />
       <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
         <classPath>
           <root type="composite">
             <root type="simple" url="jar://C:/SDK/AIR.v.17.0.0.144/frameworks/libs/player/13.0/playerglobal.swc!/" />
@@ -130,6 +151,9 @@
             <root type="simple" url="jar://C:/SDK/AIR.v.17.0.0.144/frameworks/libs/air/applicationupdater_ui.swc!/" />
           </root>
         </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
         <sourcePath>
           <root type="composite">
             <root type="simple" url="file://C:/SDK/AIR.v.17.0.0.144/frameworks/projects/air/Core/src" />
@@ -144,8 +168,14 @@
     <jdk version="2">
       <name value="1.8" />
       <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_91&quot;" />
       <homePath value="C:/Program Files/Java/jdk1.8.0_91" />
       <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
         <classPath>
           <root type="composite">
             <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_91/jre/lib/charsets.jar!/" />
@@ -173,6 +203,9 @@
             <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_91/jre/lib/rt.jar!/" />
           </root>
         </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
         <sourcePath>
           <root type="composite">
             <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/" />
@@ -185,8 +218,12 @@
     <jdk version="2">
       <name value="IntelliJ IDEA IU-145.972.3" />
       <type value="IDEA JDK" />
+      <version value="java version &quot;1.8.0_91&quot;" />
       <homePath value="$APPLICATION_HOME_DIR$" />
       <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
         <classPath>
           <root type="composite">
             <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_91/jre/lib/charsets.jar!/" />
@@ -346,6 +383,9 @@
             <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring-web.jar!/" />
           </root>
         </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
         <sourcePath>
           <root type="composite">
             <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/" />
@@ -682,7 +722,9 @@
           </root>
         </sourcePath>
       </roots>
-      <additional />
+      <additional sdk="1.8">
+        <option name="mySandboxHome" value="C:\Users\nidy\.IntelliJIdea2016.1\system\plugins-sandbox" />
+      </additional>
     </jdk>
     <jdk version="2">
       <name value="Python 2.7.9 (C:\Python27\python.exe)" />
@@ -690,6 +732,9 @@
       <version value="Python 2.7.9" />
       <homePath value="C:\Python27\python.exe" />
       <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
         <classPath>
           <root type="composite">
             <root type="simple" url="jar://C:/Python27/Lib/site-packages/osa-0.1.6.6-py2.7.egg!/" />
@@ -706,6 +751,9 @@
             <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
           </root>
         </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
         <sourcePath>
           <root type="composite" />
         </sourcePath>
@@ -718,6 +766,9 @@
       <version value="AIR SDK 25.0.0.134" />
       <homePath value="C:/SDK/AIR.v.25" />
       <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
         <classPath>
           <root type="composite">
             <root type="simple" url="jar://C:/SDK/AIR.v.25/frameworks/libs/player/25.0/playerglobal.swc!/" />
@@ -732,6 +783,9 @@
             <root type="simple" url="jar://C:/SDK/AIR.v.25/frameworks/libs/air/applicationupdater_ui.swc!/" />
           </root>
         </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
         <sourcePath>
           <root type="composite">
             <root type="simple" url="file://C:/SDK/AIR.v.25/frameworks/projects/air/Core/src" />

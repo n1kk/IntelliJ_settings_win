@@ -1,6 +1,11 @@
 <application>
   <component name="libraryTable">
     <library name="controlKit" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_rawgit.com_automat_controlkit.js_master_bin_controlKit.js" />
+        </sourceFilesUrls>
+      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_rawgit.com_automat_controlkit.js_master_bin_controlKit.js" />
       </CLASSES>
