@@ -1,8 +1,8 @@
 <application>
-  <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+  <component name="DefaultFont">
+    <option name="SECONDARY_FONT_FAMILY" value="Consolas" />
   </component>
-  <component name="LiveEditOptions">
-    <option name="elementHighlighting" value="false" />
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
   </component>
 </application>

@@ -6,7 +6,7 @@
   <option name="CONSOLE_FONT_SIZE" value="14" />
   <colors>
     <option name="CARET_ROW_COLOR" value="eee8d5" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="1e1e20" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="212223" />
     <option name="FILESTATUS_ADDED" value="cc600" />
     <option name="FILESTATUS_MODIFIED" value="82c0f0" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="37a4ff" />
@@ -72,7 +72,7 @@
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="4eb556" />
+        <option name="FOREGROUND" value="35c839" />
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">

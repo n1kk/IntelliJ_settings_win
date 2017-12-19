@@ -57,7 +57,7 @@
       <option name="ACTION_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="brn" value="// ------------- [ $END$$NAME$ ] ------------------------------------------------------------&#10;" description="comment break named" toReformat="false" toShortenFQNames="true">
+  <template name="brn" value="// ------------- [ $END$$NAME$ ] ---------------------------------------------------------------------------------------" description="comment break named" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="ACTION_SCRIPT" value="true" />
@@ -91,17 +91,17 @@
       <option name="ACTION_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="brn_ctor" value="// ------------- [ C O N S T R U C T O R ] ------------------------------------------------&#10;" description="comment break - constructor" toReformat="false" toShortenFQNames="true">
+  <template name="brn_ctor" value="// ------------- [ C O N S T R U C T O R ] ---------------------------------------------------------------------&#10;" description="comment break - constructor" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="ACTION_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="brn_dtor" value="// ------------- [ D E S T R U C T O R ] --------------------------------------------------&#10;" description="comment break  - destructor" toReformat="false" toShortenFQNames="true">
+  <template name="brn_dtor" value="// ------------- [ D E S T R U C T O R ] -----------------------------------------------------------------------        \&#10;" description="comment break  - destructor" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="ACTION_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="brn_flds" value="// ------------- [ F I E L D S ] --------------------------------------------------------&#10;" description="comment break  - fields" toReformat="false" toShortenFQNames="true">
+  <template name="brn_flds" value="// ------------- [ F I E L D S ] -------------------------------------------------------------------------------        \&#10;" description="comment break  - fields" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="ACTION_SCRIPT" value="true" />
     </context>
@@ -111,12 +111,12 @@
       <option name="ACTION_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="brn_pbmthds" value="// ------------- [ P U B L I C   M E T H O D S ] ----------------------------------------------&#10;" description="comment break  - public methods" toReformat="false" toShortenFQNames="true">
+  <template name="brn_pbmthds" value="// ------------- [ P U B L I C   M E T H O D S ] ---------------------------------------------------------------        \&#10;" description="comment break  - public methods" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="ACTION_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="brn_prmthds" value="// ------------- [ P R I V A T E   M E T H O D S ] ----------------------------------------------&#10;" description="comment break  - private methods" toReformat="false" toShortenFQNames="true">
+  <template name="brn_prmthds" value="// ------------- [ P R I V A T E   M E T H O D S ] -------------------------------------------------------------        \&#10;" description="comment break  - private methods" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="ACTION_SCRIPT" value="true" />
     </context>
@@ -126,12 +126,12 @@
       <option name="ACTION_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="brn_gtst" value="// ------------- [ G E T T E R S   &amp;   S E T T E R S ] --------------------------------------------&#10;" description="comment break  - getters &amp; setters" toReformat="false" toShortenFQNames="true">
+  <template name="brn_gtst" value="// ------------- [ G E T T E R S   &amp;   S E T T E R S ] ---------------------------------------------------------        \&#10;" description="comment break  - getters &amp; setters" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="ACTION_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="brn_intmthds" value="// ------------- [ I N T E R N A L   M E T H O D S ] --------------------------------------------&#10;" description="comment break  - internal methods" toReformat="false" toShortenFQNames="true">
+  <template name="brn_intmthds" value="// ------------- [ I N T E R N A L   M E T H O D S ] -----------------------------------------------------------        \&#10;" description="comment break  - internal methods" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="ACTION_SCRIPT" value="true" />
     </context>
