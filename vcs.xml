@@ -18,9 +18,13 @@
           <option name="url" value="git@git.ad-sector3.com:frontend/raceroom-evo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/n1kk/nuxt-socket-tailwind-template.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="H:\fontend" />
+    <option name="cloneParentDir" value="F:\Dev\web_playgrounds" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
